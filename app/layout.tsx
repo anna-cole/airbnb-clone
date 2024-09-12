@@ -4,7 +4,7 @@ import "./globals.css";
 import Navbar from './components/navbar/Navbar';
 
 export const metadata = {
-  title: "Airbnb",
+  title: "Airbnb | Vacation home rentals",
   description: "Vacation home rentals",
 }
 
